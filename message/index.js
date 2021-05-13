@@ -4,7 +4,7 @@
 
 /**
  * This source code below is free, please DO NOT sell this in any form!
- * Source code ini gratis, jadi tolong JANGAN jual dalam bentuk apapun!
+ * Source code ini gratis, jadi tolong JANGAN jual dalam  bentuk apapun!
  *
  * If you copying one of our source code, please give us CREDITS. Because this is one of our hardwork.
  * Apabila kamu menjiplak salah satu source code ini, tolong berikan kami CREDIT. Karena ini adalah salah satu kerja keras kami.
