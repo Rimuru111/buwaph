@@ -13,6 +13,7 @@ const addPremiumUser = (userId, expired, _dir) => {
     fs.writeFileSync('./database/bot/premium.json', JSON.stringify(_dir))
 }
 
+
 /**
  * Get premium user index position.
  * @param {string} userId 
