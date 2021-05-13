@@ -2,7 +2,7 @@ const chalk = require('chalk')
 const crypto = require('crypto')
 const moment = require('moment-timezone')
 moment.tz.setDefault('Asia/Jakarta').locale('id')
-
+ 
 /**
  * Get text with color.
  * @param {string} text 
