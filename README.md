@@ -3,7 +3,7 @@
 
 # _**HisokaBot**_
 
-> HisokaBot is a multipurpose WhatsApp bot using wa-automate-nodejs library!
+> ANTECH is a multipurpose WhatsApp bot using wa-automate-nodejs library!
 > Script Copy From [BocchiBot](https://github.com/SlavyanDesu/BocchiBot)
 >
 >
